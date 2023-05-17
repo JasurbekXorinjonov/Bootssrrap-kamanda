@@ -1,0 +1,14 @@
+.bgc_color{
+    background-color: #07003B;
+}
+.bg_img{
+    background-image: url(./imgs/Bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    margin-top: 145px;
+}
+.links{
+    margin-top: 157px;
+}
