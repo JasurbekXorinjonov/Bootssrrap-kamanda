@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0 auto;
+
+}
+
+.header{
+    width: 1440px;
+    height: 80px;
+    background-color: rgba(7, 0, 59, 1);
+    box-shadow: 0px 4px 20px rgba(7, 0, 59, 0.2);
+}
+
+.raw1{
+    width: 35px;
+    height: 3px;
+    background-color: #ffffff;
+    border: none;
+}
+.raw2{
+    width: 40px;
+    height: 3px;
+    background-color: #fff;
+    border: none;
+    margin: 5px 0;
+}
+.raw3{
+    width: 32px;
+    height: 3px;
+    background-color: #ffffff;
+    border: none;
+    margin-top: 5px;
+}
+
+
+a{
+    color: #fff;
+    text-decoration: none;
+    line-height: 5;
+    margin: 0 0 0 200px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.location{
+         position: relative;
+         left: 190px;
+         top: 4px;
+}
+.tel{
+    position: relative;
+    left: 190px;
+    top: 4px;
+}
+
+.logo{
+    position: relative;
+    left: 113px;
+    top: 19px;
+}
+
+.menu{
+    position: relative;
+    right: 50px;
+}
+
+
+.raws{
+    position: relative;
+    top: 28px;
+}
+.raw1{
+    position: relative;
+    right: 75px;
+}
+.raw2{
+    position: relative;
+    right: 80px;
+}
+.raw3{
+    position: relative;
+    right: 72px;
+}
+h1{
+margin-top: 50px;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+color: rgba(7, 0, 59, 1);
+font-family: sans-serif;
+text-align: center;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+/* .imgg4{
+    position: relative;
+    right: 84px;
+}
+.imgg5{
+    position: relative;
+    right: 94px;
+}
+.imgg6{
+    position: relative;
+    /* right: 150px; */
+
+
+.link1{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    right: 210px;
+}
+.link2{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    right: 285px;
+}
+.link3{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    right: 371px;
+}
+.link4{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    right: 460px;
+}
+.link5{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    left: 720px;
+    bottom: 75px;
+}
+.link6{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    left: 700px;
+    bottom: 75px;
+}
+
+.link7{
+    color: rgb(0, 0, 0);
+    margin-top: 200px;
+    position: relative;
+    left: 670px;
+    bottom: 75px;
+}
+
